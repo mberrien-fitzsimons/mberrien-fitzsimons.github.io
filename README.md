@@ -1,5 +1,5 @@
-# Personal Website (https://mishaberrien.com/)
-This project is my personal website. A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com). The exact template can be found [here](https://github.com/volny/creative-theme-jekyll).
+## Personal Website (https://mishaberrien.com/)
+This project is my personal website. The exact template can be found [here](https://github.com/volny/creative-theme-jekyll).
 
 #### -- Project Status: [Completed]
 
