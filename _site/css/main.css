@@ -123,25 +123,8 @@ header {
   -o-background-size: cover;
   background-position: center;
   background-image: url("../img/header.jpg");
-  opacity: 0;
   text-align: center;
-  color: white;
-
-  animation-name: fadein;
-  animation-duration: 3s;
-  animation-delay: 0.5s;
-  animation-timing-function: ease-in;
-  animation-fill-mode: forwards;}
-
-@keyframes fadein {
-  from{
-    opacity: 0;
-  }
-  to{
-    opacity: 1;
-  }
-}
-
+  color: white; }
   header .header-content {
     position: relative;
     text-align: center;
