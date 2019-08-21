@@ -300,3 +300,16 @@ img::-moz-selection {
 
 body {
   -webkit-tap-highlight-color: #3C3C3C; }
+
+header {
+  opacity: 0;
+  animation-name: fade-in;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-fill-mode: forwards; }
+
+@keyframes fade-in {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }

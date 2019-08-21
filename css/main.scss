@@ -45,3 +45,20 @@ $theme-dark: #3C3C3C;
         "mixins",
         "base"
 ;
+
+header{
+  opacity: 0;
+  animation-name: fade-in;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fade-in {
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}
