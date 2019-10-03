@@ -3,15 +3,6 @@ This project is my personal website. The exact template can be found [here](http
 
 #### -- Project Status: [Completed]
 
-### Technologies
-* R
-* Python
-* D3
-* Ruby on Rails
-* Pandas, jupyter
-* HTML
-* JavaScript
-
 ## Getting Started
 
 If you would like to use the same template:
