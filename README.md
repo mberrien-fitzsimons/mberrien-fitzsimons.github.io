@@ -1,4 +1,4 @@
-## Personal Website (https://mishaberrien.com/)
+## Personal Website (https://mberrien-fitzsimons.github.io/)
 This project is my personal website. The exact template can be found [here](https://github.com/volny/creative-theme-jekyll).
 
 #### -- Project Status: [Completed]
